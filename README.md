@@ -9,4 +9,4 @@ An unbeatable TicTacToe AI player implemented using Max-Min algorithm with JAVA.
 
 ### Requirments:
 
-* Any JAVA IDE (eclipse, intellij)
+* Any JAVA IDE (eclipse, intellij...)
